@@ -40,6 +40,7 @@ Como estudiante de DAW, tengo experiencia práctica con las tecnologías fundame
 - 🔄 Seguir mejorando mis habilidades con Laravel
 - 📈 Contribuir a proyectos open source
 - 🤝 Conectar con otros desarrolladores
+- 🚀 Convertirte en fullstack con Laravel + Tailwind + Vue.js 
 
 
 ## 💭 Filosofía de desarrollo
