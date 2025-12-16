@@ -61,3 +61,9 @@ Me gusta escribir código limpio, bien documentado y seguir las mejores práctic
 **preparando proyecto final** 🎯
 
 *"Cada línea de código es un paso más hacia convertirme en el desarrollador que quiero ser"* ✨
+
+<div align="center">
+
+[![Estadísticas de Enrique](https://github-readme-stats.vercel.app/api?username=EnriqueDominguezDev&show_icons=true&locale=es&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
